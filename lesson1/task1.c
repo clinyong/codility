@@ -1,5 +1,7 @@
-// you can write to stdout for debugging purposes, e.g.
-// printf("this is a debug message\n");
+/*
+ * TapeEquilibrium
+ * Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+ * */
 
 int solution(int A[], int N) {
     // write your code in C99
