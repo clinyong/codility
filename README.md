@@ -11,3 +11,5 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [PermMissingElem](https://codility.com/demo/results/demoAG7EMH-5Q2/)
 
 ### Lesson2
+
+- [PermCheck](https://codility.com/demo/results/demo2A4ZCR-KUA/)
