@@ -13,4 +13,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 ### Lesson2
 
 - [PermCheck](https://codility.com/demo/results/demo2A4ZCR-KUA/)
-- [FrogRiverOne](https://codility.com/demo/results/demo35BT2E-F8Q/)
+- [FrogRiverOne](https://codility.com/demo/results/demo2PGRNV-ZVP/)
