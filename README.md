@@ -14,3 +14,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 - [PermCheck](https://codility.com/demo/results/demo2A4ZCR-KUA/)
 - [FrogRiverOne](https://codility.com/demo/results/demo2PGRNV-ZVP/)
+- [MissingInteger](https://codility.com/demo/results/demoSFG4K8-G3B/)
