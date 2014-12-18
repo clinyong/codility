@@ -16,3 +16,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [FrogRiverOne](https://codility.com/demo/results/demo2PGRNV-ZVP/)
 - [MissingInteger](https://codility.com/demo/results/demoSFG4K8-G3B/)
 - [MaxCounters](https://codility.com/demo/results/demoZ3GC6Z-P2R/)
+
+### Lesson3
+
+- [PassingCars](https://codility.com/demo/results/demoP5X9DK-GSZ/)
