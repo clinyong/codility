@@ -20,3 +20,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 ### Lesson3
 
 - [PassingCars](https://codility.com/demo/results/demoP5X9DK-GSZ/)
+- [CountDiv](https://codility.com/demo/results/demo8HEYU4-HQM/)
