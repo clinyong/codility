@@ -21,3 +21,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 - [PassingCars](https://codility.com/demo/results/demoP5X9DK-GSZ/)
 - [CountDiv](https://codility.com/demo/results/demo8HEYU4-HQM/)
+- [MinAvgTwoSlice](https://codility.com/demo/results/demoV9SPKC-DKC/)
