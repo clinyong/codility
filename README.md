@@ -23,3 +23,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [CountDiv](https://codility.com/demo/results/demo8HEYU4-HQM/)
 - [MinAvgTwoSlice](https://codility.com/demo/results/demoV9SPKC-DKC/)
 - [GenomicRangeQuery](https://codility.com/demo/results/demoBFK234-32T/)
+
+### Lesson4
+
+- [Triangle](https://codility.com/demo/results/demoPWBZAH-XAA/)
