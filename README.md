@@ -27,3 +27,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 ### Lesson4
 
 - [Triangle](https://codility.com/demo/results/demoPWBZAH-XAA/)
+- [MaxProductOfThree](https://codility.com/demo/results/demo48Z7KS-MHD/)
