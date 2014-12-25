@@ -30,3 +30,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [MaxProductOfThree](https://codility.com/demo/results/demo48Z7KS-MHD/)
 - [Distinct](https://codility.com/demo/results/demo3N3ZFX-3GC/)
 - NumberOfDiscIntersections
+
+### Lesson5
+
+-[Brackets](https://codility.com/demo/results/demoP9Z69F-7A8/)
