@@ -33,4 +33,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 ### Lesson5
 
--[Brackets](https://codility.com/demo/results/demoP9Z69F-7A8/)
+- [Brackets](https://codility.com/demo/results/demoP9Z69F-7A8/)
