@@ -35,3 +35,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 - [Brackets](https://codility.com/demo/results/demoP9Z69F-7A8/)
 - [Nesting](https://codility.com/demo/results/demoCAA74J-6H7/)
+- StoneWall
