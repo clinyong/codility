@@ -18,7 +18,9 @@ int solution(int A[], int N) {
         } else {
             if(value != A[i]) {
                 size--;    
-            }    
+            } else {
+				size++;	
+			}   
         }
     }
     
