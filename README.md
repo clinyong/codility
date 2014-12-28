@@ -37,3 +37,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [Nesting](https://codility.com/demo/results/demoCAA74J-6H7/)
 - StoneWall
 - Fish
+
+### Lesson6
+
+- [Dominator](https://codility.com/demo/results/demoBU5AFK-M9A/)
