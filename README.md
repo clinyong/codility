@@ -41,3 +41,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 ### Lesson6
 
 - [Dominator](https://codility.com/demo/results/demoBU5AFK-M9A/)
+- [EquiLeader](https://codility.com/demo/results/demoFWCG86-U5U/)
