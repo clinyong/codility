@@ -42,3 +42,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 - [Dominator](https://codility.com/demo/results/demo8PFBQG-NYW/)
 - [EquiLeader](https://codility.com/demo/results/demoFWCG86-U5U/)
+
+### Lesson7
+
+- [MaxProfit](https://codility.com/demo/results/demoHVNAGT-9ZP/)
