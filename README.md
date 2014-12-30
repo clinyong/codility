@@ -47,3 +47,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 - [MaxProfit](https://codility.com/demo/results/demoHVNAGT-9ZP/)
 - [MaxSliceSum](https://codility.com/demo/results/demo9VFVE8-62G/)
+- [MaxDoubleSliceSum](https://codility.com/demo/results/demoCFZ4AN-7HK/)
