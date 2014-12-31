@@ -51,4 +51,5 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 ### Lesson8
 
--[CountFactors](https://codility.com/demo/results/demoX55UCY-44U/)
+- [CountFactors](https://codility.com/demo/results/demoX55UCY-44U/)
+- [MinPerimeterRectangle](https://codility.com/demo/results/demoUEM2NV-3WF/)
