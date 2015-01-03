@@ -54,3 +54,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [CountFactors](https://codility.com/demo/results/demoX55UCY-44U/)
 - [MinPerimeterRectangle](https://codility.com/demo/results/demoUEM2NV-3WF/)
 - [Peaks](https://codility.com/demo/results/demoUWQEVD-NNJ/)
+- Flags
