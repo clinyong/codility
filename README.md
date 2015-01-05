@@ -55,3 +55,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 - [MinPerimeterRectangle](https://codility.com/demo/results/demoUEM2NV-3WF/)
 - [Peaks](https://codility.com/demo/results/demoUWQEVD-NNJ/)
 - Flags
+
+### Lesson9
+
+- [CountSemiprimes](https://codility.com/demo/results/demo8ZNJVP-HGG/)
