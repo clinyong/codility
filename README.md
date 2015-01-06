@@ -59,3 +59,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 ### Lesson9
 
 - [CountSemiprimes](https://codility.com/demo/results/demo8ZNJVP-HGG/)
+- [CountNonDivisible](https://codility.com/demo/results/demoRDVCQ7-D6D/)
