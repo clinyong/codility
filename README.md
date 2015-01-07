@@ -60,3 +60,7 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 
 - [CountSemiprimes](https://codility.com/demo/results/demo8ZNJVP-HGG/)
 - [CountNonDivisible](https://codility.com/demo/results/demoRDVCQ7-D6D/)
+
+### Lesson10
+
+- [ChocolatesByNumbers](https://codility.com/demo/results/demoQ4KS5D-JR5/)
