@@ -64,3 +64,4 @@ My solutions on [codility](https://codility.com/programmers/lessons/)
 ### Lesson10
 
 - [ChocolatesByNumbers](https://codility.com/demo/results/demoQ4KS5D-JR5/)
+- [CommonPrimeDivisors](https://codility.com/demo/results/demoM27MMZ-PX5/)
